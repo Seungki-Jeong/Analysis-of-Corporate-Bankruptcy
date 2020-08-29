@@ -1,0 +1,38 @@
+"[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)",20110101-20111231,20100101-20101231
+concept_id,label_ko,label_en,class0,class1,class2,class3,"('연결재무제표',)","('연결재무제표',)"
+ifrs_Revenue,수익,Revenue(Sales),포괄손익계산서 [abstract],수익,,,1040133868537.0,1115226030432.0
+entity00155498_udf_IS_2012316151516538_Revenue,국내공사수입,NEWAccount for Revenue(Sales) (1),포괄손익계산서 [abstract],수익,국내공사수입,,998594426801.0,1064823068372.0
+entity00155498_udf_IS_2012316151542585_Revenue,해외공사수입,NEWAccount for Revenue(Sales) (2),포괄손익계산서 [abstract],수익,해외공사수입,,5139959955.0,10889326571.0
+entity00155498_udf_IS_2012316151550554_Revenue,임대수입,NEWAccount for Revenue(Sales) (3),포괄손익계산서 [abstract],수익,임대수입,,5044777566.0,4976794251.0
+entity00155498_udf_IS_2012316151558258_Revenue,제품매출수입,NEWAccount for Revenue(Sales) (4),포괄손익계산서 [abstract],수익,제품매출수입,,16346058014.0,23829611248.0
+ifrs_OtherRevenue,기타매출수입,Other revenue(Sales),포괄손익계산서 [abstract],수익,기타매출수입,,14988123813.0,10707229990.0
+entity00155498_udf_IS_201231615161370_Revenue,분양매출수입,NEWAccount for Revenue(Sales) (5),포괄손익계산서 [abstract],수익,분양매출수입,,20522388.0,0.0
+ifrs_CostOfSales,매출원가,Cost of sales,포괄손익계산서 [abstract],매출원가,,,1038061167643.0,1086181866365.0
+entity00155498_udf_IS_2012316151644368_CostOfSales,국내공사원가,NEWAccount for Cost of sales (1),포괄손익계산서 [abstract],매출원가,국내공사원가,,999957628559.0,1030361893810.0
+entity00155498_udf_IS_2012316151658196_CostOfSales,해외공사원가,NEWAccount for Cost of sales (2),포괄손익계산서 [abstract],매출원가,해외공사원가,,5139959955.0,22267715225.0
+entity00155498_udf_IS_201231615175337_CostOfSales,임대원가,NEWAccount for Cost of sales (3),포괄손익계산서 [abstract],매출원가,임대원가,,2688116360.0,2718817404.0
+entity00155498_udf_IS_2012316151714540_CostOfSales,제품매출원가,NEWAccount for Cost of sales (4),포괄손익계산서 [abstract],매출원가,제품매출원가,,15025139581.0,21118510175.0
+dart_OtherCostOfSales,기타매출원가,Other cost of sales,포괄손익계산서 [abstract],매출원가,기타매출원가,,15208472815.0,9714929751.0
+entity00155498_udf_IS_2012316151723681_CostOfSales,분양매출원가,NEWAccount for Cost of sales (5),포괄손익계산서 [abstract],매출원가,분양매출원가,,41850373.0,0.0
+ifrs_GrossProfit,매출총이익,Gross profit,포괄손익계산서 [abstract],매출총이익,,,2072700894.0,29044164067.0
+dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,Selling general administrative expenses                                                         ,포괄손익계산서 [abstract],판매비와관리비,,,43867147172.0,41531574825.0
+ifrs_OtherIncome,기타수익,Other income,포괄손익계산서 [abstract],기타수익,,,17680646147.0,18243784283.0
+ifrs_OtherExpenseByFunction,기타비용,Other expense,포괄손익계산서 [abstract],기타비용,,,22322491803.0,58114960626.0
+dart_OperatingIncomeLoss,영업이익(손실),Operating Income(Loss)                                                                              ,포괄손익계산서 [abstract],영업이익(손실),,,-46436291934.0,-52358587101.0
+ifrs_FinanceIncome,금융수익,Finance income,포괄손익계산서 [abstract],금융수익,,,52892224310.0,8153847905.0
+ifrs_FinanceCosts,금융원가,Finance costs,포괄손익계산서 [abstract],금융원가,,,47822283849.0,46864901726.0
+ifrs_ProfitLossBeforeTax,법인세비용차감전순이익(손실),Profit (loss) before tax,포괄손익계산서 [abstract],법인세비용차감전순이익(손실),,,-41366351473.0,-91069640922.0
+ifrs_IncomeTaxExpenseContinuingOperations,법인세비용,Income tax expense,포괄손익계산서 [abstract],법인세비용,,,5513787709.0,16445564837.0
+ifrs_ProfitLoss,당기순이익(손실),Profit (loss),포괄손익계산서 [abstract],당기순이익(손실),,,-35852563764.0,-74624076085.0
+entity00155498_udf_IS_201231615256969_ProfitLoss,당기순손실의 귀속:,Net loss attributable,포괄손익계산서 [abstract],당기순이익(손실),당기순손실의 귀속:,,,
+entity00155498_udf_IS_2012316152534735_ProfitLoss,지배기업 소유주지분,Parent equity holders,포괄손익계산서 [abstract],당기순이익(손실),지배기업 소유주지분,,-35852563764.0,-74624076085.0
+entity00155498_udf_IS_2012316152547298_ProfitLoss,비지배지분,NEWAccount for Profit (loss) (3),포괄손익계산서 [abstract],당기순이익(손실),비지배지분,,0.0,
+ifrs_OtherComprehensiveIncome,기타포괄손익,Other comprehensive income,포괄손익계산서 [abstract],기타포괄손익,,,3540805607.0,-1470609662.0
+ifrs_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,Currency accounts overseas,포괄손익계산서 [abstract],기타포괄손익,법인세비용차감후기타포괄손익의 구성요소 [abstract],해외사업환산손익,2240108630.0,-628693573.0
+ifrs_OtherComprehensiveIncomeNetOfTaxAvailableforsaleFinancialAssets,매도가능금융자산평가손익,"Other comprehensive income, net of tax, available-for-sale financial assets",포괄손익계산서 [abstract],기타포괄손익,법인세비용차감후기타포괄손익의 구성요소 [abstract],매도가능금융자산평가손익,1786556576.0,-844092501.0
+ifrs_OtherComprehensiveIncomeNetOfTaxActuarialGainsLossesOnDefinedBenefitPlans,보험수리적손익,"Other comprehensive income, net of tax, actuarial gains (losses) on defined benefit plans",포괄손익계산서 [abstract],기타포괄손익,법인세비용차감후기타포괄손익의 구성요소 [abstract],보험수리적손익,-485859599.0,2176412.0
+ifrs_ComprehensiveIncome,총포괄손익,Total comprehensive income,포괄손익계산서 [abstract],총포괄손익,,,-32311758157.0,-76094685747.0
+ifrs_ComprehensiveIncomeAttributableToOwnersOfParent,"포괄손익, 지배기업의 소유주에게 귀속되는 지분","Comprehensive income, attributable to owners of parent",포괄손익계산서 [abstract],포괄손익의 귀속 [abstract],"포괄손익, 지배기업의 소유주에게 귀속되는 지분",,-32311758157.0,-76094685747.0
+ifrs_ComprehensiveIncomeAttributableToNoncontrollingInterests,"포괄손익, 비지배지분","Comprehensive income, attributable to non-controlling interests",포괄손익계산서 [abstract],포괄손익의 귀속 [abstract],"포괄손익, 비지배지분",,,
+ifrs_BasicEarningsLossPerShare,기본주당이익(손실),Basic earnings (loss) per share,포괄손익계산서 [abstract],지배기업 소유주지분에 대한 주당손익,기본주당이익(손실),,-2021.0,-4207.0
+ifrs_DilutedEarningsLossPerShare,희석주당이익(손실),Diluted earnings (loss) per share,포괄손익계산서 [abstract],지배기업 소유주지분에 대한 주당손익,희석주당이익(손실),,-2021.0,-4207.0
