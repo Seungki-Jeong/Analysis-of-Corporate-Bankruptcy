@@ -1,0 +1,16 @@
+"[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)",20110101-20111231,20100101-20101231
+concept_id,label_ko,label_en,class0,class1,"('연결재무제표',)","('연결재무제표',)"
+ifrs_Revenue,수익,Revenue(Sales),포괄손익계산서 [abstract],수익,0.0,0.0
+ifrs_CostOfSales,매출원가,Cost of sales,포괄손익계산서 [abstract],매출원가,0.0,0.0
+ifrs_GrossProfit,매출총이익,Gross profit,포괄손익계산서 [abstract],매출총이익,0.0,0.0
+ifrs_OtherIncome,기타영업수익,Other operating income,포괄손익계산서 [abstract],기타영업수익,0.0,0.0
+dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,Selling general administrative expenses                                                         ,포괄손익계산서 [abstract],판매비와관리비,0.0,0.0
+ifrs_AdministrativeExpense,관리비,Administrative expenses,포괄손익계산서 [abstract],관리비,0.0,0.0
+dart_OperatingIncomeLoss,영업이익(손실),Operating Income(Loss)                                                                              ,포괄손익계산서 [abstract],영업이익(손실),0.0,0.0
+ifrs_FinanceIncome,금융수익,Finance income,포괄손익계산서 [abstract],금융수익,0.0,0.0
+ifrs_FinanceCosts,금융원가,Finance costs,포괄손익계산서 [abstract],금융원가,0.0,0.0
+ifrs_ProfitLossBeforeTax,법인세비용차감전순이익(손실),Profit (loss) before tax,포괄손익계산서 [abstract],법인세비용차감전순이익(손실),0.0,0.0
+ifrs_IncomeTaxExpenseContinuingOperations,법인세비용,Income tax expense,포괄손익계산서 [abstract],법인세비용,0.0,0.0
+ifrs_ProfitLoss,당기순이익(손실),Profit (loss),포괄손익계산서 [abstract],당기순이익(손실),0.0,0.0
+ifrs_OtherComprehensiveIncome,기타포괄손익,Other comprehensive income,포괄손익계산서 [abstract],기타포괄손익,0.0,0.0
+ifrs_ComprehensiveIncome,총포괄손익,Total comprehensive income,포괄손익계산서 [abstract],총포괄손익,0.0,0.0
