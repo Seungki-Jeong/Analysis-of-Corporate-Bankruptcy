@@ -1,9 +1,0 @@
-"[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)",20111231,20101231,20091231,20081231,20071231
-concept_id,label_ko,label_en,class0,class1,class2,"('연결재무제표',)","('연결재무제표',)","('연결재무제표',)","('연결재무제표',)","('연결재무제표',)"
-ifrs_CurrentAssets,유동자산,Current assets,재무상태표 [abstract],자산 [abstract],유동자산,0.0,0.0,0.0,147119786465.0,145548761483.0
-ifrs_NoncurrentAssets,비유동자산,Non-current assets,재무상태표 [abstract],자산 [abstract],비유동자산,0.0,0.0,0.0,215997826817.0,176730117515.0
-ifrs_Assets,자산총계,Total assets,재무상태표 [abstract],자산 [abstract],자산총계,0.0,0.0,0.0,363117613282.0,322278878998.0
-ifrs_CurrentLiabilities,유동부채,Current liabilities,재무상태표 [abstract],부채  [abstract],유동부채,0.0,0.0,0.0,153862486665.0,113365991350.0
-ifrs_NoncurrentLiabilities,비유동부채,Non-current liabilities,재무상태표 [abstract],부채  [abstract],비유동부채,0.0,0.0,0.0,37449501826.0,78766281892.0
-ifrs_Liabilities,부채총계,Total liabilities,재무상태표 [abstract],부채  [abstract],부채총계,0.0,0.0,0.0,191311988491.0,192132273242.0
-ifrs_EquityAndLiabilities,자본과부채총계,Total equity and liabilities,재무상태표 [abstract],자본과부채총계,,0.0,0.0,0.0,,

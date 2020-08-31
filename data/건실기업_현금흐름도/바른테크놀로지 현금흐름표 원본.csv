@@ -1,0 +1,47 @@
+"[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)",20190101-20191231,20180101-20181231,20170101-20171231
+concept_id,label_ko,label_en,class0,class1,class2,"('연결재무제표',)","('연결재무제표',)","('연결재무제표',)"
+ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,Cash flows from (used in) operating activities,현금흐름표 [abstract],영업활동현금흐름,,-2435579665.0,-1324743406.0,247466565.0
+entity00186452_udf_CF_2018810153910868_CashFlowsFromUsedInOperatingActivities,영업으로부터창출된현금,Profit (loss) and Adjustments to reconcile profit (loss),현금흐름표 [abstract],영업활동현금흐름,영업으로부터창출된현금,-2296500191.0,-1157539100.0,771258224.0
+ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취(영업),Interest received,현금흐름표 [abstract],영업활동현금흐름,이자수취(영업),155204047.0,45681859.0,63740114.0
+ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급(영업),Interest paid,현금흐름표 [abstract],영업활동현금흐름,이자지급(영업),278899521.0,204967635.0,598876803.0
+ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취(영업),Dividends received,현금흐름표 [abstract],영업활동현금흐름,배당금수취(영업),420000.0,420000.0,5230000.0
+ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),Income taxes paid (refund),현금흐름표 [abstract],영업활동현금흐름,법인세납부(환급),15804000.0,8338530.0,-6115030.0
+ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,Cash flows from (used in) investing activities,현금흐름표 [abstract],투자활동현금흐름,,-17176122499.0,960123142.0,-7185600852.0
+entity00186452_udf_CF_2018810155613557_CashFlowsFromUsedInInvestingActivities,1. 투자활동으로인한현금유입액,1.CashFlowsFromUsedInInvestingActivities,현금흐름표 [abstract],투자활동현금흐름,1. 투자활동으로인한현금유입액,54778752288.0,17350990848.0,3239763832.0
+entity00186452_udf_CF_2018810155530749_CashFlowsFromUsedInInvestingActivities,금융기관예치금의 감소,Due from Financial Institutions,현금흐름표 [abstract],투자활동현금흐름,금융기관예치금의 감소,51770462987.0,12425104563.0,3159070574.0
+entity00186452_udf_CF_2019813162327510_CashFlowsFromUsedInInvestingActivities,당기손익-공정가치금융자산의처분,Profit or Loss-Disposition of Fair Value Financial Assets,현금흐름표 [abstract],투자활동현금흐름,당기손익-공정가치금융자산의처분,10185000.0,1908871735.0,
+dart_DecreaseInLoans,대여금의 감소,Decrease in loans,현금흐름표 [abstract],투자활동현금흐름,대여금의 감소,2751769867.0,,22800000.0
+dart_ProceedsFromSalesOfFinanceLeaseAssets,금융리스채권의 회수,Proceeds from sales of finance lease assets,현금흐름표 [abstract],투자활동현금흐름,금융리스채권의 회수,176401110.0,,
+dart_DecreaseInGuaranteeDeposits,보증금의 감소,Decrease in guarantee deposits,현금흐름표 [abstract],투자활동현금흐름,보증금의 감소,16000000.0,1737014550.0,56649000.0
+entity00186452_udf_CF_2019813162533717_CashFlowsFromUsedInInvestingActivities,종속기업취득에 따른 순현금흐름,Net Cash Flows from Acquisition of Subsidiaries,현금흐름표 [abstract],투자활동현금흐름,종속기업취득에 따른 순현금흐름,,1280000000.0,1244258.0
+ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,"Proceeds from sales of property, plant and equipment",현금흐름표 [abstract],투자활동현금흐름,유형자산의 처분,53933324.0,,
+entity00186452_udf_CF_201881016110100_CashFlowsFromUsedInInvestingActivities,2. 투자활동으로인한현금유출액,2.CashFlowsFromUsedInInvestingActivities,현금흐름표 [abstract],투자활동현금흐름,2. 투자활동으로인한현금유출액,-71954874787.0,-16390867706.0,-10425364684.0
+entity00186452_udf_CF_20181113125725991_CashFlowsFromUsedInInvestingActivities,금융기관예치금의 증가,"Due from Financial Institutions 
+increase",현금흐름표 [abstract],투자활동현금흐름,금융기관예치금의 증가,59024841209.0,7693651899.0,10158177237.0
+dart_IncreaseInLoans,대여금의 증가,Increase in loans,현금흐름표 [abstract],투자활동현금흐름,대여금의 증가,2056493151.0,3660000000.0,
+entity00186452_udf_CF_201981316193624_CashFlowsFromUsedInInvestingActivities,당기손익-공정가치금융자산의취득,Profit or Loss-Acquisition of Fair Value Financial Assets,현금흐름표 [abstract],투자활동현금흐름,당기손익-공정가치금융자산의취득,,2000000000.0,
+entity00186452_udf_CF_2020318145848868_CashFlowsFromUsedInInvestingActivities,상각후원가측정유가증권의취득,Acquisition of amortized cost measurement oil price securities,현금흐름표 [abstract],투자활동현금흐름,상각후원가측정유가증권의취득,,25680000.0,
+dart_PurchaseOfLongTermLoansAndReceivables,장기대여금,Purchase of long-term loans and receivables,현금흐름표 [abstract],투자활동현금흐름,장기대여금,10000000000.0,,
+dart_IncreaseInGuaranteeDeposits,보증금의 증가,Increase in guarantee deposits,현금흐름표 [abstract],투자활동현금흐름,보증금의 증가,24135000.0,578381930.0,26851000.0
+dart_PurchaseOfInvestmentsInAssociates,관계기업에 대한 투자자산의 취득,Purchase of investments in associates,현금흐름표 [abstract],투자활동현금흐름,관계기업에 대한 투자자산의 취득,,1203300000.0,
+entity00186452_udf_CF_202031815716200_CashFlowsFromUsedInInvestingActivities,종속기업취득에 따른 순현금흐름 증가,Net Cash Flows from Acquisition of Subsidiarie,현금흐름표 [abstract],투자활동현금흐름,종속기업취득에 따른 순현금흐름 증가,4839855.0,,
+ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,"Purchase of property, plant and equipment",현금흐름표 [abstract],투자활동현금흐름,유형자산의 취득,472206670.0,1160820207.0,213536447.0
+ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,Purchase of intangible assets,현금흐름표 [abstract],투자활동현금흐름,무형자산의 취득,372358902.0,69033670.0,26800000.0
+ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,Cash flows from (used in) financing activities,현금흐름표 [abstract],재무활동현금흐름,,34560606040.0,1614227564.0,2533297420.0
+entity00186452_udf_CF_201881016553729_CashFlowsFromUsedInFinancingActivities,1. 재무활동으로인한현금유입액,1. Cash flows from (used in) financing activities,현금흐름표 [abstract],재무활동현금흐름,1. 재무활동으로인한현금유입액,37272168957.0,9627193200.0,5097505830.0
+entity00186452_udf_CF_201932814443697_CashFlowsFromUsedInFinancingActivities,유상증자,capital increase with consideration,현금흐름표 [abstract],재무활동현금흐름,유상증자,14271188000.0,,4397573394.0
+dart_ProceedsFromShortTermBorrowings,차입금의 증가,Proceeds from short term borrowings,현금흐름표 [abstract],재무활동현금흐름,차입금의 증가,297844000.0,4609033200.0,699932436.0
+dart_ProceedsFromBonds,사채의 발행,Proceeds from bonds,현금흐름표 [abstract],재무활동현금흐름,사채의 발행,,1070000000.0,
+dart_ProceedsFromConvertibleBonds,전환사채의 발행,Proceeds from convertible bonds,현금흐름표 [abstract],재무활동현금흐름,전환사채의 발행,22689836957.0,3940000000.0,
+dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,Increase in guarantee deposits as financial activities,현금흐름표 [abstract],재무활동현금흐름,임대보증금의 증가,13300000.0,8160000.0,
+entity00186452_udf_CF_201881016625297_CashFlowsFromUsedInFinancingActivities,2. 재무활동으로인한현금유출액,2. Cash flows from (used in) financing activities,현금흐름표 [abstract],재무활동현금흐름,2. 재무활동으로인한현금유출액,-2711562917.0,-8012965636.0,-2564208410.0
+ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,Repayments of borrowings,현금흐름표 [abstract],재무활동현금흐름,차입금의 상환,597844000.0,4954965636.0,714014700.0
+entity00186452_udf_CF_2020318151130855_CashFlowsFromUsedInFinancingActivities,비지배주주와의 거래,transactions with non-controlling shareholders,현금흐름표 [abstract],재무활동현금흐름,비지배주주와의 거래,210000000.0,,
+dart_RepaymentsOfBonds,사채의 상환,Repayments of bonds,현금흐름표 [abstract],재무활동현금흐름,사채의 상환,,1530000000.0,
+dart_RepaymentsOfConvertibleBonds,전환사채의 상환,Repayments of convertible bonds,현금흐름표 [abstract],재무활동현금흐름,전환사채의 상환,861956960.0,1500000000.0,1803443710.0
+entity00186452_udf_CF_201981316131385_CashFlowsFromUsedInFinancingActivities,리스부채의 감소,Reduction of lease liabilities,현금흐름표 [abstract],재무활동현금흐름,리스부채의 감소,1041086957.0,,46750000.0
+dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 감소,Decrease in guarantee deposits as financial activities,현금흐름표 [abstract],재무활동현금흐름,임대보증금의 감소,675000.0,28000000.0,
+ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,Effect of exchange rate changes on cash and cash equivalents,현금흐름표 [abstract],현금및현금성자산에 대한 환율변동효과,,14477974.0,487517.0,-636504.0
+ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),Net increase (decrease) in cash and cash equivalents,현금흐름표 [abstract],현금및현금성자산의순증가(감소),,14963381850.0,1250094817.0,-4405473371.0
+dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,Cash and cash equivalents at beginning of period,현금흐름표 [abstract],기초현금및현금성자산,,2221411910.0,971317093.0,5376790464.0
+dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,Cash and cash equivalents at end of period,현금흐름표 [abstract],기말현금및현금성자산,,17184793760.0,2221411910.0,971317093.0

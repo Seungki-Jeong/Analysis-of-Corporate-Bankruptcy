@@ -1,0 +1,33 @@
+"[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)",20190101-20191231,20180101-20181231,20170101-20171231
+concept_id,label_ko,label_en,class0,class1,class2,class3,"('연결재무제표',)","('연결재무제표',)","('연결재무제표',)"
+ifrs-full_Revenue,수익(매출액),Revenue(Sales),포괄손익계산서 [abstract],수익(매출액),,,20974332943.0,24369577390.0,25634637631.0
+ifrs-full_CostOfSales,매출원가,Cost of sales,포괄손익계산서 [abstract],매출원가,,,18782431449.0,20651290175.0,21269040630.0
+ifrs-full_GrossProfit,매출총이익,Gross profit,포괄손익계산서 [abstract],매출총이익,,,2191901494.0,3718287215.0,4365597001.0
+dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,Selling general administrative expenses,포괄손익계산서 [abstract],판매비와관리비,,,9518522855.0,8078362612.0,9874226765.0
+dart_OperatingIncomeLoss,영업이익(손실),Operating income(loss),포괄손익계산서 [abstract],영업이익(손실),,,-7326621361.0,-4360075397.0,-5508629764.0
+dart_OtherGains,기타이익,Other gains,포괄손익계산서 [abstract],기타이익,,,56060078.0,134240626.0,634725361.0
+dart_OtherLosses,기타손실,Other losses,포괄손익계산서 [abstract],기타손실,,,1249267087.0,3883967047.0,5558218826.0
+ifrs-full_FinanceIncome,금융수익,Finance income,포괄손익계산서 [abstract],금융수익,,,1298329828.0,3723709933.0,909740184.0
+ifrs-full_FinanceCosts,금융원가,Finance costs,포괄손익계산서 [abstract],금융원가,,,669536450.0,5787987002.0,3845978350.0
+entity00896753_udf_IS_201932720351216_StatementOfComprehensiveIncomeAbstract,공동기업및관계기업투자손익,invest income(loss) of an interested concern,포괄손익계산서 [abstract],공동기업및관계기업투자손익,,,-240382820.0,-3272133913.0,
+ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),Profit (loss) before tax,포괄손익계산서 [abstract],법인세비용차감전순이익(손실),,,-8131417812.0,-13446212800.0,-13368361395.0
+ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,Income tax expense,포괄손익계산서 [abstract],법인세비용,,,,,944820589.0
+ifrs-full_ProfitLossFromContinuingOperations,계속사업순이익(손실),Profit (loss) from continuing operations,포괄손익계산서 [abstract],계속사업순이익(손실),,,-8131417812.0,-13446212800.0,-14313181984.0
+ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업이익(손실),Profit (loss) from discontinued operations,포괄손익계산서 [abstract],중단영업이익(손실),,,1816864320.0,84181155.0,-4359986844.0
+ifrs-full_ProfitLoss,당기순이익(손실),Profit (loss),포괄손익계산서 [abstract],당기순이익(손실),,,-6314553492.0,-13362031645.0,-18673168828.0
+ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),"Profit (loss), attributable to owners of parent",포괄손익계산서 [abstract],당기순이익(손실)의 귀속 [abstract],지배기업의 소유주에게 귀속되는 당기순이익(손실),,-6289277770.0,-13059171268.0,-15729307068.0
+ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 당기순이익(손실),"Profit (loss), attributable to non-controlling interests",포괄손익계산서 [abstract],당기순이익(손실)의 귀속 [abstract],비지배지분에 귀속되는 당기순이익(손실),,-25275722.0,-302860377.0,-2943861760.0
+ifrs-full_OtherComprehensiveIncome,기타포괄손익,Other comprehensive income,포괄손익계산서 [abstract],기타포괄손익,,,-660224031.0,-248864488.0,-70440568.0
+dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는항목(세후기타포괄손익),"Other comprehensive income that will not be reclassified to profit or loss, net of tax",포괄손익계산서 [abstract],기타포괄손익,당기손익으로 재분류되지 않는항목(세후기타포괄손익),,,,
+dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익(세후기타포괄손익),"Other comprehensive income, net of tax, gains (losses) on remeasurements of defined benefit plans",포괄손익계산서 [abstract],기타포괄손익,당기손익으로 재분류되지 않는항목(세후기타포괄손익),확정급여제도의 재측정손익(세후기타포괄손익),-662527923.0,-246560596.0,-85979880.0
+dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류될 수 있는 항목(세후기타포괄손익),"Other comprehensive income that will be reclassified to profit or loss, net of tax",포괄손익계산서 [abstract],기타포괄손익,당기손익으로 재분류될 수 있는 항목(세후기타포괄손익),,,,
+ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이(세후기타포괄손익),"Gains (losses) on exchange differences on translation, net of tax",포괄손익계산서 [abstract],기타포괄손익,당기손익으로 재분류될 수 있는 항목(세후기타포괄손익),해외사업장환산외환차이(세후기타포괄손익),2303892.0,-2303892.0,15539312.0
+ifrs-full_ComprehensiveIncome,총포괄손익,Total comprehensive income,포괄손익계산서 [abstract],총포괄손익,,,-6974777523.0,-13610896133.0,-18743609396.0
+ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"총 포괄손익, 지배기업의 소유주에게 귀속되는 지분","Comprehensive income, attributable to owners of parent",포괄손익계산서 [abstract],총 포괄손익의 귀속 [abstract],"총 포괄손익, 지배기업의 소유주에게 귀속되는 지분",,-6933953480.0,-13307623728.0,-15804163669.0
+ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"총 포괄손익, 비지배지분","Comprehensive income, attributable to non-controlling interests",포괄손익계산서 [abstract],총 포괄손익의 귀속 [abstract],"총 포괄손익, 비지배지분",,-40824043.0,-303272405.0,-2939445727.0
+ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),Basic earnings (loss) per share,포괄손익계산서 [abstract],주당이익 [abstract],기본주당이익(손실),,-54.0,-134.0,-199.0
+ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,계속영업기본주당이익(손실),Basic earnings (loss) per share from continuing operations,포괄손익계산서 [abstract],주당이익 [abstract],기본주당이익(손실),계속영업기본주당이익(손실),-70.0,-135.0,-144.0
+ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,중단영업기본주당이익(손실),Basic earnings (loss) per share from discontinued operations,포괄손익계산서 [abstract],주당이익 [abstract],기본주당이익(손실),중단영업기본주당이익(손실),16.0,1.0,-55.0
+ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),Diluted earnings (loss) per share,포괄손익계산서 [abstract],주당이익 [abstract],희석주당이익(손실),,-54.0,-134.0,-199.0
+ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,계속영업희석주당이익(손실),Diluted earnings (loss) per share from continuing operations,포괄손익계산서 [abstract],주당이익 [abstract],희석주당이익(손실),계속영업희석주당이익(손실),-70.0,-135.0,-144.0
+ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,중단영업희석주당이익(손실),Diluted earnings (loss) per share from discontinued operations,포괄손익계산서 [abstract],주당이익 [abstract],희석주당이익(손실),중단영업희석주당이익(손실),16.0,1.0,-55.0

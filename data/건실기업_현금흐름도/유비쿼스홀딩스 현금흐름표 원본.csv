@@ -1,0 +1,107 @@
+"[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)",20190101-20191231,20180101-20181231,20170101-20171231
+concept_id,label_ko,label_en,class0,class1,class2,class3,"('연결재무제표',)","('연결재무제표',)","('연결재무제표',)"
+ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,Cash flows from (used in) operating activities,현금흐름표 [abstract],영업활동현금흐름,,,18169881658.0,20424424512.0,-493878812.0
+dart_ProfitLossForStatementOfCashFlows,당기순이익,Profit (loss),현금흐름표 [abstract],영업활동현금흐름,당기순이익,,13911860744.0,16668486257.0,96694231555.0
+ifrs-full_AdjustmentsForReconcileProfitLoss,비현금항목의 조정,Adjustments to reconcile profit (loss),현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,,4266689895.0,2197989871.0,-93707980053.0
+ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용,Adjustments for income tax expense,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,법인세비용,2793490287.0,2307823660.0,2638077481.0
+dart_AdjustmentsForInterestExpenses,이자비용,Adjustments for Interest expenses,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,이자비용,6637948.0,0.0,0.0
+dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여,Adjustments for provision for severance indemnities,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,퇴직급여,74854632.0,37893064.0,0.0
+dart_AdjustmentsForDepreciationExpense,감가상각비,Adjustments for depreciation expense,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,감가상각비,2458253975.0,2157619331.0,1453610909.0
+dart_AdjustmentsForAmortisationExpense,무형자산상각비,Adjustments for amortisation expense,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,무형자산상각비,370391814.0,341755171.0,77711632.0
+dart_AdjustmentsForBadDebtExpenses,대손상각비,Adjustments for bad debt expenses,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,대손상각비,7920000.0,-13695000.0,0.0
+dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실,Adjustments for losses on foreign exchange translations,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,외화환산손실,309142312.0,18267219.0,13142982.0
+dart_AdjustmentsForLossesOnTransactionOfDerivativeFinancialAssets,파생금융자산거래손실,Adjustments for losses on transaction of derivative financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,파생금융자산거래손실,0.0,51170211.0,64353274.0
+entity00411385_udf_CF_20203391221940_AdjustmentsForReconcileProfitLoss,단기매매금융자산평가손실,Losses on valuation of held for trading financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,단기매매금융자산평가손실,42870000.0,601493595.0,35012762.0
+entity00411385_udf_CF_20203391243350_AdjustmentsForReconcileProfitLoss,단기매매금융자산처분손실,Losses on disposals of held for trading financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,단기매매금융자산처분손실,39624566.0,162141069.0,38452168.0
+dart_AdjustmentsForLossesOnEvaluationOfFairValueFinancialAssets,당기손익-공정가치측정금융자산평가손실,Adjustments for losses on evaluation of fair value financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,당기손익-공정가치측정금융자산평가손실,792266072.0,2194971333.0,0.0
+entity00411385_udf_CF_2020339104412_AdjustmentsForReconcileProfitLoss,당기손익-공정가치측정금융자산처분손실,Adjustments for losses on disposals of fair value financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,당기손익-공정가치측정금융자산처분손실,131510707.0,0.0,0.0
+entity00411385_udf_CF_2020339110334_AdjustmentsForReconcileProfitLoss,당기손익인식금융자산처분손실,Losses on disposals of fair value financial asset,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,당기손익인식금융자산처분손실,0.0,0.0,108653465.0
+entity00411385_udf_CF_20203391114948_AdjustmentsForReconcileProfitLoss,기타포괄손익-공정가치측정금융자산처분손실,Adjustments for losses on disposals of fair value through other comprehensive income,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,기타포괄손익-공정가치측정금융자산처분손실,0.0,442584869.0,0.0
+entity00411385_udf_CF_20203391128519_AdjustmentsForReconcileProfitLoss,매도가능금융자산처분손실,Losses on disposals of available for sale financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,매도가능금융자산처분손실,0.0,0.0,911900691.0
+dart_AdjustmentsForLossesOnDisposalsOfIntangibleAssets,무형자산처분손실,Adjustments for losses on disposals of intangible assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,무형자산처분손실,3000.0,0.0,0.0
+dart_AdjustmentsForWarrantyExpenses,하자보수비,Adjustments for warranty expenses,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,하자보수비,3063062272.0,2411001842.0,78478601.0
+dart_AdjustmentsForLossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법손실,Adjustments for losses of associates and joint ventures accounted for using equity method,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,지분법손실,464704374.0,211013259.0,211075852.0
+dart_AdjustmentsForMiscellaneousLosses,잡손실,Adjustments for miscellaneous losses,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,잡손실,4071004.0,0.0,0.0
+dart_AdjustmentsForProfitLossFromDiscontinuedOperations,중단영업처분이익,Adjustments for profit (loss) from discontinued operations,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,중단영업처분이익,0.0,0.0,86372598648.0
+dart_AdjustmentsForInterestIncome,이자수익,Adjustments for interest income,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,이자수익,2801617057.0,2537029860.0,2885429910.0
+entity00411385_udf_CF_20203310218797_AdjustmentsForReconcileProfitLoss,배당금수익,Dividend income non-operating,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,배당금수익,576175825.0,220020698.0,132968320.0
+dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익,Adjustments for gain on foreign exchange translations,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,외화환산이익,235525726.0,190823641.0,0.0
+dart_AdjustmentsForGainsOnEvaluationOfDerivativeFinancialAssets,파생상품평가이익,Adjustments for gains on evaluation of derivative financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,파생상품평가이익,0.0,0.0,220319926.0
+dart_AdjustmentsForGainsOnTransactionOfDerivativeFinancialAssets,파생상품거래이익,Adjustments for gains on transaction of derivative financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,파생상품거래이익,0.0,4035285.0,765430199.0
+entity00411385_udf_CF_202033101124860_AdjustmentsForReconcileProfitLoss,단기매매금융자산평가이익,Gains on valuation of held for trading financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,단기매매금융자산평가이익,177926107.0,112960462.0,641390077.0
+entity00411385_udf_CF_202033101126741_AdjustmentsForReconcileProfitLoss,단기매매금융자산처분이익,Gains on disposals of held for trading financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,단기매매금융자산처분이익,265541894.0,490316752.0,943740619.0
+dart_AdjustmentsForGainsOnEvaluationOfFairValueFinancialAssets,당기손익-공정가치측정금융자산평가이익,Adjustments for gains on evaluation of fair value financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,당기손익-공정가치측정금융자산평가이익,1341327621.0,4358340028.0,0.0
+entity00411385_udf_CF_20203310547214_AdjustmentsForReconcileProfitLoss,당기손익-공정가치측정금융자산처분이익,Adjustments for gains on disposals of fair value financial asset,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,당기손익-공정가치측정금융자산처분이익,568976901.0,461828764.0,0.0
+entity00411385_udf_CF_2020331076127_AdjustmentsForReconcileProfitLoss,당기손익인식금융자산처분이익,Gains on disposals of fair value financial asset,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,당기손익인식금융자산처분이익,0.0,0.0,13600000.0
+entity00411385_udf_CF_2020331082328_AdjustmentsForReconcileProfitLoss,기타포괄손익-공정가치측정금융자산처분이익,Adjustments for gains on disposals of fair value through other comprehensive income,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,기타포괄손익-공정가치측정금융자산처분이익,101098856.0,0.0,0.0
+entity00411385_udf_CF_20203310948759_AdjustmentsForReconcileProfitLoss,매도가능금융자산처분이익,Gains on disposals of available for sale financial assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,매도가능금융자산처분이익,0.0,0.0,2845073548.0
+dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익,Adjustments for gain on disposition of tangible assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,유형자산처분이익,0.0,13636364.0,0.0
+dart_AdjustmentsForGainsOnDisposalsOfIntangibleAssets,무형자산처분이익,Adjustments for gains on disposals of intangible assets,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,무형자산처분이익,45181818.0,0.0,0.0
+dart_AdjustmentsForProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법이익,Adjustments for profits of associates and joint ventures accounted for using equity method,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,지분법이익,156024848.0,337057898.0,4517898623.0
+dart_AdjustmentsForMiscellaneousIncome,잡이익,Adjustments for miscellaneous income,현금흐름표 [abstract],영업활동현금흐름,비현금항목의 조정,잡이익,22716415.0,0.0,0.0
+dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업자산ㆍ부채의 증감,Adjustments for assets and liabilities of operating activities,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,,-80936642.0,1129997957.0,-4115117806.0
+ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),Adjustments for decrease (increase) in trade accounts receivable,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,매출채권의 감소(증가),1702067553.0,807055643.0,5079440694.0
+dart_AdjustmentsForDecreaseincreaseInOtherReceivables,미수금의 감소(증가),Adjustments for decrease (increase) in other receivables,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,미수금의 감소(증가),-425332.0,724786340.0,-658807028.0
+dart_AdjustmentsForDecreaseincreaseInAdvancePayments,선급금의 감소(증가),Adjustments for decrease (increase) in advance payments,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,선급금의 감소(증가),362975536.0,163330996.0,-361036933.0
+dart_AdjustmentsForDecreaseincreaseInPrepaidExpenses,선급비용의 감소(증가),Adjustments for decrease (increase) in prepaid expenses,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,선급비용의 감소(증가),1328284.0,0.0,0.0
+ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),Adjustments for decrease (increase) in inventories,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,재고자산의 감소(증가),-2149552907.0,-3119481098.0,-1172759291.0
+ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),Adjustments for increase (decrease) in trade accounts payable,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,매입채무의 증가(감소),3801012473.0,115665504.0,-310822363.0
+dart_AdjustmentsForIncreasedecreaseInOtherPayables,미지급금의 증가(감소),Adjustments for increase (decrease) in other payables,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,미지급금의 증가(감소),-993631445.0,1586616797.0,-3539792250.0
+dart_AdjustmentsForIncreasedecreaseInAccruedExpenses,미지급비용의 증가(감소),Adjustments for increase (decrease) in accrued Expenses,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,미지급비용의 증가(감소),8130683.0,-127167870.0,111924060.0
+dart_AdjustmentsForIncreasedecreaseInWithholdingsBanks,예수금의 증가(감소),Adjustments for increase (decrease) in withholdings Banks,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,예수금의 증가(감소),-389480694.0,213841673.0,-712856842.0
+dart_AdjustmentsForIncreasedecreaseInAdvancesCustomers,선수금의 증가(감소),Adjustments for increase (decrease) in advances customers,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,선수금의 증가(감소),3504956440.0,3241719597.0,-63898968.0
+dart_AdjustmentsForIncreaseDecreaseInDeferredIncome,이연수익의 증가(감소),Adjustments for increase (decrease) in deferred income,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,이연수익의 증가(감소),-69380.0,104380.0,0.0
+dart_AdjustmentsForIncreaseDecreaseInProvisionsForConstructionWarranties,하자보수충당부채의 증가(감소),Adjustments for increase (decrease) in provisions for construction warranties,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,하자보수충당부채의 증가(감소),-2906103195.0,-2278443769.0,-648244601.0
+dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations,퇴직금의 지급,Adjustments for increase (decrease) in post-employment benefit obligations,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,퇴직금의 지급,-31652140.0,0.0,0.0
+dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets,사외적립자산의 감소(증가),Adjustments for decrease (increase) in fair value of plan assets,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,사외적립자산의 감소(증가),-188347860.0,0.0,0.0
+entity00411385_udf_CF_20203317142959_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,단기매매금융자산의 감소(증가),Adjustments for decrease (increase) in trading financial assets,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,단기매매금융자산의 감소(증가),420297987.0,3346969764.0,2486736716.0
+entity00411385_udf_CF_202033102648661_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,당기손익-공정가치측정금융자산의 감소(증가),Adjustments for decrease (increase) in fair value financial asset,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,당기손익-공정가치측정금융자산의 감소(증가),1027713333.0,-550000000.0,0.0
+entity00411385_udf_CF_202033102911655_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,매도가능금융자산의 감소(증가),Adjustments for decrease (increase) in available-for-sale financial assets,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,매도가능금융자산의 감소(증가),0.0,0.0,-1500001000.0
+entity00411385_udf_CF_202033103354373_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,신기술조합투자의 감소(증가),Adjustments for decrease (increase) in investment joint ventures,현금흐름표 [abstract],영업활동현금흐름,영업자산ㆍ부채의 증감,신기술조합투자의 감소(증가),-4250155978.0,-2995000000.0,-2825000000.0
+ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,Interest received,현금흐름표 [abstract],영업활동현금흐름,이자의 수취,,2685768100.0,2470911868.0,3628370644.0
+ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,Interest paid,현금흐름표 [abstract],영업활동현금흐름,이자의 지급,,6637948.0,0.0,0.0
+ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,Dividends received,현금흐름표 [abstract],영업활동현금흐름,배당금의 수취,,576175825.0,220020698.0,132968320.0
+ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,Income taxes paid (refund),현금흐름표 [abstract],영업활동현금흐름,법인세의 납부,,3183038316.0,2262982139.0,3126351472.0
+ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,Cash flows from (used in) investing activities,현금흐름표 [abstract],투자활동현금흐름,,,24239125426.0,-43324677297.0,84198637630.0
+dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,Proceeds from sales of short term Financial Instruments,현금흐름표 [abstract],투자활동현금흐름,단기금융상품의 감소,,113668793775.0,939630715.0,16484055510.0
+dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의 감소,Proceeds from sales of fair value financial asset,현금흐름표 [abstract],투자활동현금흐름,당기손익-공정가치측정금융자산의 감소,,12650314760.0,7545117232.0,0.0
+entity00411385_udf_CF_202033113332127_CashFlowsFromUsedInInvestingActivities,당기손익인식금융자산의 감소,Adjustments for decrease in fair value financial asset,현금흐름표 [abstract],투자활동현금흐름,당기손익인식금융자산의 감소,,0.0,0.0,10369020000.0
+entity00411385_udf_CF_202033113536360_CashFlowsFromUsedInInvestingActivities,기타포괄손익-공정가치측정금융자산의 감소,Proceeds from fair value through other comprehensive income,현금흐름표 [abstract],투자활동현금흐름,기타포괄손익-공정가치측정금융자산의 감소,,21291848856.0,6984193024.0,0.0
+dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,매도가능금융자산의 감소,Proceeds from sales of available-for-sale financial assets,현금흐름표 [abstract],투자활동현금흐름,매도가능금융자산의 감소,,0.0,0.0,143637306861.0
+dart_ProceedsFromSalesOfInvestmentsInAssociates,관계기업투자의 감소,Proceeds from sales of investments in associates,현금흐름표 [abstract],투자활동현금흐름,관계기업투자의 감소,,51614674.0,0.0,0.0
+dart_ProceedsFromSalesOfShortTermLoansAndReceivables,단기대여금의 감소,Proceeds from sales of short-term loans and receivables,현금흐름표 [abstract],투자활동현금흐름,단기대여금의 감소,,2533005349.0,3909662490.0,4590979578.0
+dart_ProceedsFromSalesOfLongTermLoansAndReceivables,장기대여금의 감소,Proceeds from sales of long-term loans and receivables,현금흐름표 [abstract],투자활동현금흐름,장기대여금의 감소,,764000000.0,880000000.0,1499299298.0
+dart_ProceedsFromSalesOfVehicles,차량운반구의 처분,Proceeds from sales of vehicles,현금흐름표 [abstract],투자활동현금흐름,차량운반구의 처분,,0.0,13636364.0,0.0
+dart_ProceedsFromSalesOfOtherIntangibleAssets,기타무형자산의 처분,Proceeds from sales of other intangible assets,현금흐름표 [abstract],투자활동현금흐름,기타무형자산의 처분,,147381818.0,0.0,0.0
+dart_DecreaseInGuaranteeDeposits,보증금의 감소,Decrease in guarantee deposits,현금흐름표 [abstract],투자활동현금흐름,보증금의 감소,,850610000.0,1490000000.0,700000000.0
+ifrs-full_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,통화선도의 정산,"Cash receipts from future contracts, forward contracts, option contracts and swap contracts",현금흐름표 [abstract],투자활동현금흐름,통화선도의 정산,,0.0,173185000.0,570550000.0
+dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,Purchase of short term Financial Instruments,현금흐름표 [abstract],투자활동현금흐름,단기금융상품의 증가,,87585963432.0,45325500000.0,14955000000.0
+dart_PurchaseOfLongTermFinancialInstruments,장기금융상품의 증가,Purchase of long-term financial instruments,현금흐름표 [abstract],투자활동현금흐름,장기금융상품의 증가,,5117603000.0,117603000.0,117603000.0
+dart_PurchaseOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의 증가,Purchase of fair value financial asset,현금흐름표 [abstract],투자활동현금흐름,당기손익-공정가치측정금융자산의 증가,,23218471500.0,10027600000.0,0.0
+entity00411385_udf_CF_202033112549551_CashFlowsFromUsedInInvestingActivities,기타포괄손익-공정가치측정금융자산의 증가,Purchase of fair value through other comprehensive income,현금흐름표 [abstract],투자활동현금흐름,기타포괄손익-공정가치측정금융자산의 증가,,6254157200.0,1190750000.0,0.0
+dart_PurchaseOfAvailableForSaleFinancialAssets,매도가능금융자산의 증가,Purchase of available-for-sale financial assets,현금흐름표 [abstract],투자활동현금흐름,매도가능금융자산의 증가,,0.0,0.0,74502345905.0
+dart_PurchaseOfInvestmentsInSubsidiaries,종속기업투자의 증가,Purchase of investments in subsidiaries,현금흐름표 [abstract],투자활동현금흐름,종속기업투자의 증가,,0.0,1999600000.0,0.0
+dart_PurchaseOfInvestmentsInAssociates,관계기업투자의 증가,Purchase of investments in associates,현금흐름표 [abstract],투자활동현금흐름,관계기업투자의 증가,,1750000000.0,0.0,0.0
+dart_PurchaseOfShortTermLoansAndReceivables,단기대여금의 증가,Purchase of short-term loans and receivables,현금흐름표 [abstract],투자활동현금흐름,단기대여금의 증가,,180000000.0,0.0,0.0
+dart_PurchaseOfLongTermLoansAndReceivables,장기대여금의 증가,Purchase of long-term loans and receivables,현금흐름표 [abstract],투자활동현금흐름,장기대여금의 증가,,2155000000.0,4050000000.0,3090000000.0
+dart_PurchaseOfMachinery,기계장치의 취득,Purchase of machinery,현금흐름표 [abstract],투자활동현금흐름,기계장치의 취득,,98696500.0,734271884.0,12345454.0
+dart_PurchaseOfFixturesAndFittings,집기비품의 취득,Purchase of fixtures and fittings,현금흐름표 [abstract],투자활동현금흐름,집기비품의 취득,,41812174.0,72442300.0,130534698.0
+dart_PurchaseOfCopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRights,산업재산권의 증가,"Purchase of copyrights, patents and other industrial property rights, service and operating rights",현금흐름표 [abstract],투자활동현금흐름,산업재산권의 증가,,0.0,23064998.0,0.0
+dart_PurchaseOfComputerSoftware,소프트웨어의 증가,Purchase of computer software,현금흐름표 [abstract],투자활동현금흐름,소프트웨어의 증가,,20000000.0,30479940.0,11584560.0
+dart_IncreaseInGuaranteeDeposits,보증금의 증가,Increase in guarantee deposits,현금흐름표 [abstract],투자활동현금흐름,보증금의 증가,,1296740000.0,1688790000.0,833160000.0
+ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,Cash flows from (used in) financing activities,현금흐름표 [abstract],재무활동현금흐름,,,-4519071602.0,1871670101.0,-50826710797.0
+dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,Proceeds from short term borrowings,현금흐름표 [abstract],재무활동현금흐름,단기차입금의 증가,,0.0,5000000000.0,0.0
+dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,Increase in guarantee deposits as financial activities,현금흐름표 [abstract],재무활동현금흐름,임대보증금의 증가,,546318000.0,20000000.0,1857053220.0
+ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsFinancingActivities,정부보조금의 수령,Proceeds from government grants,현금흐름표 [abstract],재무활동현금흐름,정부보조금의 수령,,75468750.0,56250000.0,0.0
+ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,Payments of finance lease liabilities,현금흐름표 [abstract],재무활동현금흐름,리스부채의 상환,,227136852.0,0.0,0.0
+dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 감소,Decrease in guarantee deposits as financial activities,현금흐름표 [abstract],재무활동현금흐름,임대보증금의 감소,,530405000.0,0.0,20000000.0
+ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsFinancingActivities,현물출자 유상증자 단주대금의 지급,Other inflows (outflows) of cash,현금흐름표 [abstract],재무활동현금흐름,현물출자 유상증자 단주대금의 지급,,0.0,-10234.0,0.0
+dart_AcquisitionOfTreasuryShares,자기주식의 취득,Acquisition of treasury shares,현금흐름표 [abstract],재무활동현금흐름,자기주식의 취득,,0.0,946667165.0,14469337361.0
+ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,Dividends paid,현금흐름표 [abstract],재무활동현금흐름,배당금의 지급,,4383316500.0,2257902500.0,4673235250.0
+entity00411385_udf_CF_202033114934167_CashFlowsFromUsedInFinancingActivities,분할로 인한 현금및현금성자산의 감소,Net increase (decrease) in cash and cash equivalents of Spinoff,현금흐름표 [abstract],재무활동현금흐름,분할로 인한 현금및현금성자산의 감소,,0.0,0.0,33521191406.0
+entity00411385_udf_CF_202033115253143_StatementOfCashFlowsAbstract,연결범위변동으로 인한 현금및현금성자산의 증가(감소),Net increase (decrease) in cash and cash equivalents of Changes in consolidated companies,현금흐름표 [abstract],연결범위변동으로 인한 현금및현금성자산의 증가(감소),,,0.0,20548770871.0,0.0
+ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 순증가(감소),Net increase (decrease) in cash and cash equivalents before effect of exchange rate changes,현금흐름표 [abstract],환율변동효과 반영전 현금및현금성자산의 순증가(감소),,,37889935482.0,-479811813.0,32878048021.0
+ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,Effect of exchange rate changes on cash and cash equivalents,현금흐름표 [abstract],현금및현금성자산에 대한 환율변동효과,,,2184491.0,150231560.0,-41687657.0
+ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),Net increase (decrease) in cash and cash equivalents,현금흐름표 [abstract],현금및현금성자산의순증가(감소),,,37892119973.0,-329580253.0,32836360364.0
+dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,Cash and cash equivalents at beginning of period,현금흐름표 [abstract],기초현금및현금성자산,,,61182012555.0,61511592808.0,28675232444.0
+dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,Cash and cash equivalents at end of period,현금흐름표 [abstract],기말현금및현금성자산,,,99074132528.0,61182012555.0,61511592808.0

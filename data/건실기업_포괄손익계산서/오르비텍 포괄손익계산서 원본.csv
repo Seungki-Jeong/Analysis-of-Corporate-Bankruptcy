@@ -1,0 +1,27 @@
+"[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)",20190101-20191231,20180101-20181231,20170101-20171231
+concept_id,label_ko,label_en,class0,class1,class2,class3,"('연결재무제표',)","('연결재무제표',)","('연결재무제표',)"
+ifrs-full_Revenue,매출액,Revenue(Sales),포괄손익계산서 [abstract],매출액,,,74944340962.0,69213196219.0,47516202361.0
+ifrs-full_CostOfSales,매출원가,Cost of sales,포괄손익계산서 [abstract],매출원가,,,66458489341.0,60969961256.0,40324481126.0
+ifrs-full_GrossProfit,매출총이익,Gross profit,포괄손익계산서 [abstract],매출총이익,,,8485851621.0,8243234963.0,7191721235.0
+dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,Selling general administrative expenses,포괄손익계산서 [abstract],판매비와관리비,,,4379771381.0,4068002209.0,3553220672.0
+dart_OperatingIncomeLoss,영업이익,Operating income,포괄손익계산서 [abstract],영업이익,,,4106080240.0,4175232754.0,3638500563.0
+dart_OtherGains,기타수익,Other gains,포괄손익계산서 [abstract],기타수익,,,534516014.0,144723714.0,99441498.0
+dart_OtherLosses,기타비용,Other losses,포괄손익계산서 [abstract],기타비용,,,1833685843.0,312172810.0,161130904.0
+ifrs-full_FinanceIncome,금융수익,Finance income,포괄손익계산서 [abstract],금융수익,,,405020832.0,386818244.0,546070895.0
+ifrs-full_FinanceCosts,금융비용,Finance costs,포괄손익계산서 [abstract],금융비용,,,1922200492.0,1269500307.0,1617312045.0
+entity00297989_udf_IS_2018219145447452_StatementOfComprehensiveIncomeAbstract,지분법손익,Equity method profit,포괄손익계산서 [abstract],지분법손익,,,7402014.0,-2656832.0,-19079229.0
+ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익,Profit (loss) before tax,포괄손익계산서 [abstract],법인세비용차감전순이익,,,1297132765.0,3122444763.0,2486490778.0
+ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,Income tax expense,포괄손익계산서 [abstract],법인세비용,,,318799319.0,-253565671.0,-104548726.0
+ifrs-full_ProfitLoss,당기순이익(손실),Profit (loss),포괄손익계산서 [abstract],당기순이익(손실),,,978333446.0,3376010434.0,2591039504.0
+entity00297989_udf_IS_201932818230157_ProfitLoss,지배기업소유주지분,"Profit (loss), attributable to owners of parent",포괄손익계산서 [abstract],당기순이익(손실),지배기업소유주지분,,998517645.0,3430697764.0,2591039504.0
+entity00297989_udf_IS_201932818233540_ProfitLoss,비지배지분,"Profit (loss), attributable to non-controlling interests",포괄손익계산서 [abstract],당기순이익(손실),비지배지분,,-20184199.0,-54687330.0,
+ifrs-full_OtherComprehensiveIncome,기타포괄손익,Other comprehensive income,포괄손익계산서 [abstract],기타포괄손익,,,-373990697.0,-22022118.0,19452600.0
+dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되지 않는 항목,"Other comprehensive income that will not be reclassified to profit or loss, net of tax",포괄손익계산서 [abstract],기타포괄손익,후속적으로 당기손익으로 재분류되지 않는 항목,,-373990697.0,-22022118.0,27149823.0
+dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,Other comprehensive income gains gosses on remeasurements of defined benefit plans,포괄손익계산서 [abstract],기타포괄손익,후속적으로 당기손익으로 재분류되지 않는 항목,순확정급여부채의 재측정요소,-373990697.0,-22022118.0,27149823.0
+dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류될 수 있는 항목,"Other comprehensive income that will be reclassified to profit or loss, net of tax",포괄손익계산서 [abstract],기타포괄손익,후속적으로 당기손익으로 재분류될 수 있는 항목,,,,-7697223.0
+dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,Change in equity method capital,포괄손익계산서 [abstract],기타포괄손익,후속적으로 당기손익으로 재분류될 수 있는 항목,지분법자본변동,,,-10471840.0
+ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,매도가능금융자산평가손익,"Gains (losses) on remeasuring available-for-sale financial assets, net of tax",포괄손익계산서 [abstract],기타포괄손익,후속적으로 당기손익으로 재분류될 수 있는 항목,매도가능금융자산평가손익,,,2774617.0
+ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업소유주지분,"Comprehensive income, attributable to owners of parent",포괄손익계산서 [abstract],당기총포괄이익,지배기업소유주지분,,604342749.0,3367158010.0,2610492104.0
+ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,"Comprehensive income, attributable to non-controlling interests",포괄손익계산서 [abstract],당기총포괄이익,비지배지분,,,-13169694.0,
+ifrs-full_BasicEarningsLossPerShare,기본주당이익,Basic earnings (loss) per share,포괄손익계산서 [abstract],주당이익 [abstract],기본주당이익,,43.0,149.0,150.0
+ifrs-full_DilutedEarningsLossPerShare,희석주당이익,Diluted earnings (loss) per share,포괄손익계산서 [abstract],주당이익 [abstract],희석주당이익,,43.0,148.0,143.0

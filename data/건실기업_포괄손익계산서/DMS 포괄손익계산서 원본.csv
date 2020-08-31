@@ -1,0 +1,32 @@
+"[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)","[D431410] Statement of comprehensive income, by function of expense - Consolidated financial statements (Unit: KRW)",20190101-20191231,20180101-20181231,20170101-20171231
+concept_id,label_ko,label_en,class0,class1,class2,"('연결재무제표',)","('연결재무제표',)","('연결재무제표',)"
+ifrs-full_Revenue,수익(매출액),Revenue(Sales),포괄손익계산서 [abstract],수익(매출액),,196206589070.0,298717912214.0,268731600513.0
+ifrs-full_CostOfSales,매출원가,Cost of sales,포괄손익계산서 [abstract],매출원가,,130906502366.0,222750210188.0,207523598515.0
+ifrs-full_GrossProfit,매출총이익,Gross profit,포괄손익계산서 [abstract],매출총이익,,65300086704.0,75967702026.0,61208001998.0
+entity00361594_udf_IS_2017119205638903_GrossProfit,판매관리비,Selling general administrative expenses,포괄손익계산서 [abstract],매출총이익,판매관리비,34516063493.0,35114933728.0,35259079723.0
+entity00361594_udf_IS_201833016382615_GrossProfit,경상개발비,e,포괄손익계산서 [abstract],매출총이익,경상개발비,8073792033.0,10509191316.0,9325614149.0
+dart_OperatingIncomeLoss,영업이익(손실),Operating income(loss),포괄손익계산서 [abstract],영업이익(손실),,22710231178.0,30343576982.0,16623308126.0
+entity00361594_udf_IS_2017119205339675_OperatingIncomeLoss,금융수익,Finance income,포괄손익계산서 [abstract],영업이익(손실),금융수익,259934666.0,99688393.0,257346435.0
+entity00361594_udf_IS_201711920545134_OperatingIncomeLoss,금융비용,Finance costs,포괄손익계산서 [abstract],영업이익(손실),금융비용,3193484022.0,3560114344.0,2956465428.0
+entity00361594_udf_IS_201711920545727_OperatingIncomeLoss,지분법투자손익,Gains on sale of investment accounted for using equity method,포괄손익계산서 [abstract],영업이익(손실),지분법투자손익,247876197.0,1151917430.0,1048213323.0
+entity00361594_udf_IS_201711920546413_OperatingIncomeLoss,기타영업외수익,Other revenue(Non Operating),포괄손익계산서 [abstract],영업이익(손실),기타영업외수익,13336262936.0,16379758423.0,13397366057.0
+entity00361594_udf_IS_2017119205446568_OperatingIncomeLoss,기타영업외비용,Other expenses (Non Operating),포괄손익계산서 [abstract],영업이익(손실),기타영업외비용,11816055927.0,22546800641.0,23534119415.0
+ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),Profit (loss) before tax,포괄손익계산서 [abstract],법인세비용차감전순이익(손실),,21544765028.0,21868026243.0,4835649098.0
+ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,Income tax expense,포괄손익계산서 [abstract],법인세비용,,4308532349.0,6683897725.0,978046896.0
+ifrs-full_ProfitLoss,당기순이익(손실),Profit (loss),포괄손익계산서 [abstract],당기순이익(손실),,17236232679.0,15184128518.0,3857602202.0
+ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),"Profit (loss), attributable to owners of parent",포괄손익계산서 [abstract],당기순이익(손실)의 귀속 [abstract],지배기업의 소유주에게 귀속되는 당기순이익(손실),17261947630.0,15210302998.0,3888495475.0
+ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 당기순이익(손실),"Profit (loss), attributable to non-controlling interests",포괄손익계산서 [abstract],당기순이익(손실)의 귀속 [abstract],비지배지분에 귀속되는 당기순이익(손실),-25714951.0,-26174480.0,-30893273.0
+ifrs-full_OtherComprehensiveIncome,기타포괄손익,Other comprehensive income,포괄손익계산서 [abstract],기타포괄손익,,4528296250.0,1816907261.0,-596427379.0
+entity00361594_udf_IS_2019411086976_OtherComprehensiveIncome,후속적으로 당기손익으로 재분류되지 않는 항목,entity00361594_udf_IS_2019411086976,포괄손익계산서 [abstract],기타포괄손익,후속적으로 당기손익으로 재분류되지 않는 항목,589175434.0,-927545598.0,0.0
+entity00361594_udf_IS_20194110833276_OtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산 평가손익,entity00361594_udf_IS_20194110833276,포괄손익계산서 [abstract],기타포괄손익,기타포괄손익-공정가치측정금융자산 평가손익,755353121.0,-1189161023.0,0.0
+entity00361594_udf_IS_201941101025484_OtherComprehensiveIncome,당기손익으로 재분류되지 않는 항목의 법인세,entity00361594_udf_IS_201941101025484,포괄손익계산서 [abstract],기타포괄손익,당기손익으로 재분류되지 않는 항목의 법인세,-166177687.0,261615425.0,0.0
+dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,후속적 당기손익 재분류 가능 항목,"Other comprehensive income that will be reclassified to profit or loss, net of tax",포괄손익계산서 [abstract],기타포괄손익,후속적 당기손익 재분류 가능 항목,3939120816.0,2744452859.0,-596427379.0
+entity00361594_udf_IS_201941101126701_OtherComprehensiveIncome,해외사업환산손익,entity00361594_udf_IS_201941101126701,포괄손익계산서 [abstract],기타포괄손익,해외사업환산손익,3931504320.0,2741895836.0,-28652397.0
+entity00361594_udf_IS_201941101138149_OtherComprehensiveIncome,지분법자본변동,entity00361594_udf_IS_201941101138149,포괄손익계산서 [abstract],기타포괄손익,지분법자본변동,7616496.0,2557023.0,-5083762.0
+entity00361594_udf_IS_201941101139227_OtherComprehensiveIncome,매도가능금융자산평가이익,entity00361594_udf_IS_201941101139227,포괄손익계산서 [abstract],기타포괄손익,매도가능금융자산평가이익,0.0,0.0,-721399000.0
+entity00361594_udf_IS_20194114124200_OtherComprehensiveIncome,당기손익으로 재분류될 수 있는 항목의 법인세,entity00361594_udf_IS_20194114124200,포괄손익계산서 [abstract],기타포괄손익,당기손익으로 재분류될 수 있는 항목의 법인세,0.0,0.0,158707780.0
+ifrs-full_ComprehensiveIncome,당기총포괄손익,Total comprehensive income,포괄손익계산서 [abstract],당기총포괄손익,,21764528929.0,17001035779.0,3261174823.0
+ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주,"Comprehensive income, attributable to owners of parent",포괄손익계산서 [abstract],당기총포괄손익의 귀속,지배기업의 소유주,21790243880.0,17027210259.0,3292068096.0
+ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,"Comprehensive income, attributable to non-controlling interests",포괄손익계산서 [abstract],당기총포괄손익의 귀속,비지배지분,-25714951.0,-26174480.0,-30893273.0
+ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),Basic earnings (loss) per share,포괄손익계산서 [abstract],지배기업지분에 대한 주당손익,기본주당이익(손실),768.0,662.0,171.0
+ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),Diluted earnings (loss) per share,포괄손익계산서 [abstract],지배기업지분에 대한 주당손익,희석주당이익(손실),765.0,657.0,169.0

@@ -1,0 +1,32 @@
+"[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)","[D520000] Statement of cash flows, indirect method - Consolidated financial statements (Unit: KRW)",20190101-20191231,20180101-20181231,20170101-20171231
+concept_id,label_ko,label_en,class0,class1,class2,"('연결재무제표',)","('연결재무제표',)","('연결재무제표',)"
+ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,Cash flows from (used in) operating activities,현금흐름표 [abstract],영업활동현금흐름,,-83721172.0,-8137255779.0,-6628058314.0
+dart_ProfitLossForStatementOfCashFlows,당기순이익(손실),Profit (loss),현금흐름표 [abstract],영업활동현금흐름,당기순이익(손실),-11767230008.0,-30899900922.0,-30393134770.0
+ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,Adjustments to reconcile profit (loss),현금흐름표 [abstract],영업활동현금흐름,당기순이익조정을 위한 가감,15635760350.0,1124243442.0,23898416089.0
+dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로인한자산ㆍ부채의변동,Adjustments for assets and liabilities of operating activities,현금흐름표 [abstract],영업활동현금흐름,영업활동으로인한자산ㆍ부채의변동,-1818074111.0,23263738242.0,1407757460.0
+ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취(영업),Interest received,현금흐름표 [abstract],영업활동현금흐름,이자수취(영업),34021110.0,65997832.0,150788913.0
+ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급(영업),Interest paid,현금흐름표 [abstract],영업활동현금흐름,이자지급(영업),2159833283.0,1714436033.0,1683369440.0
+ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),Income taxes paid (refund),현금흐름표 [abstract],영업활동현금흐름,법인세납부(환급),8365230.0,-23101660.0,8516566.0
+ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,Cash flows from (used in) investing activities,현금흐름표 [abstract],투자활동현금흐름,,-159577911.0,14778636656.0,9274391101.0
+dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익인식금융자산의 순증감,Proceeds from sales of fair value financial asset,현금흐름표 [abstract],투자활동현금흐름,당기손익인식금융자산의 순증감,,,2540327332.0
+dart_ProceedsFromSalesOfOtherCurrentFinancialAssets,기타유동금융자산의 순증감,Proceeds from sales of other current financial assets,현금흐름표 [abstract],투자활동현금흐름,기타유동금융자산의 순증감,-150000000.0,583000000.0,3908962200.0
+dart_ProceedsFromSalesOfOtherNonCurrentFinancialAssets,기타비유동금융자산의 순증감,Proceeds from sales of other non-current financial assets,현금흐름표 [abstract],투자활동현금흐름,기타비유동금융자산의 순증감,,-322075380.0,442185140.0
+dart_PurchaseOfAvailableForSaleFinancialAssets,매도가능금융자산의 취득,Purchase of available-for-sale financial assets,현금흐름표 [abstract],투자활동현금흐름,매도가능금융자산의 취득,,,200000000.0
+dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,매도가능금융자산의 처분,Proceeds from sales of available-for-sale financial assets,현금흐름표 [abstract],투자활동현금흐름,매도가능금융자산의 처분,,,762130047.0
+dart_PurchaseOfInvestmentsInAssociates,관계기업에 대한 투자자산의 취득,Purchase of investments in associates,현금흐름표 [abstract],투자활동현금흐름,관계기업에 대한 투자자산의 취득,,9348719204.0,
+ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,"Purchase of property, plant and equipment",현금흐름표 [abstract],투자활동현금흐름,유형자산의 취득,,28700000.0,138712919.0
+ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,"Proceeds from sales of property, plant and equipment",현금흐름표 [abstract],투자활동현금흐름,유형자산의 처분,12959500.0,80000.0,214661994.0
+ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,Purchase of intangible assets,현금흐름표 [abstract],투자활동현금흐름,무형자산의 취득,1518550.0,2877200.0,207537000.0
+ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,Proceeds from sales of intangible assets,현금흐름표 [abstract],투자활동현금흐름,무형자산의 처분,,,155454546.0
+dart_PurchaseOfConstructionInProgress,건설중인자산의 취득,Purchase of construction in progress,현금흐름표 [abstract],투자활동현금흐름,건설중인자산의 취득,21018861.0,551777011.0,
+dart_ProceedsFromSalesOfLiabilitiesIncludedInDisposalGroupsClassifiedAsHeldForSale,매각예정으로 분류된 처분자산집단에 포함된 부채의 처분,Proceeds from sales of liabilities included in disposal groups classified as held for sale,현금흐름표 [abstract],투자활동현금흐름,매각예정으로 분류된 처분자산집단에 포함된 부채의 처분,,24449705451.0,1796919761.0
+ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,Cash flows from (used in) financing activities,현금흐름표 [abstract],재무활동현금흐름,,-1622511208.0,-3346000000.0,-4080000000.0
+dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,Repayments of short term borrowings,현금흐름표 [abstract],재무활동현금흐름,단기차입금의 상환,2000000000.0,5000000000.0,4080000000.0
+ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,Repayments of borrowings,현금흐름표 [abstract],재무활동현금흐름,차입금의 상환,,20000000000.0,
+dart_ProceedsFromExerciseOfConvertibleRightOrWarrant,전환권/신주인수권 행사로 인한 현금유입,Proceeds from exercise of convertible right or warrant,현금흐름표 [abstract],재무활동현금흐름,전환권/신주인수권 행사로 인한 현금유입,985611553.0,,
+dart_ProceedsFromBonds,사채의 발행,Proceeds from bonds,현금흐름표 [abstract],재무활동현금흐름,사채의 발행,8500000000.0,21654000000.0,
+dart_RepaymentsOfBonds,사채의 상환,Repayments of bonds,현금흐름표 [abstract],재무활동현금흐름,사채의 상환,9108122761.0,,
+ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 순증가(감소),Net increase (decrease) in cash and cash equivalents before effect of exchange rate changes,현금흐름표 [abstract],환율변동효과 반영전 현금및현금성자산의 순증가(감소),,-1865810291.0,3295380877.0,-1433667213.0
+dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,Cash and cash equivalents at beginning of period,현금흐름표 [abstract],기초현금및현금성자산,,4682610219.0,1342191718.0,2957129785.0
+ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,Effect of exchange rate changes on cash and cash equivalents,현금흐름표 [abstract],현금및현금성자산에 대한 환율변동효과,,-4979600.0,45037624.0,-181270854.0
+dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,Cash and cash equivalents at end of period,현금흐름표 [abstract],기말현금및현금성자산,,2811820328.0,4682610219.0,1342191718.0
