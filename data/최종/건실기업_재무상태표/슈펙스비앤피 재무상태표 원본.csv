@@ -1,0 +1,67 @@
+"[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)","[D210000] Statement of financial position, current/non-current - Consolidated financial statements (Unit: KRW)",20191231,20181231,20171231
+concept_id,label_ko,label_en,class0,class1,class2,class3,class4,"('연결재무제표',)","('연결재무제표',)","('연결재무제표',)"
+ifrs-full_CurrentAssets,유동자산,Current assets,재무상태표 [abstract],자산 [abstract],유동자산,,,34099315363.0,49115430053.0,82988555212.0
+ifrs-full_CashAndCashEquivalents,현금및현금성자산,Cash and cash equivalents,재무상태표 [abstract],자산 [abstract],유동자산,현금및현금성자산,,5858829491.0,14563101644.0,13657781345.0
+dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,Short-term deposits not classified as cash equivalents,재무상태표 [abstract],자산 [abstract],유동자산,단기금융상품,,5500000000.0,5500000000.0,8009603897.0
+ifrs-full_TradeAndOtherCurrentReceivables,매출채권 및 기타유동채권,Trade and other current receivables,재무상태표 [abstract],자산 [abstract],유동자산,매출채권 및 기타유동채권,,9570505201.0,10694623392.0,30627430343.0
+ifrs-full_CurrentTaxAssets,당기법인세자산,Current tax assets,재무상태표 [abstract],자산 [abstract],유동자산,당기법인세자산,,41878521.0,141099102.0,70962030.0
+ifrs-full_Inventories,재고자산,Inventories,재무상태표 [abstract],자산 [abstract],유동자산,재고자산,,3399865753.0,8974593613.0,19780314068.0
+ifrs-full_OtherCurrentFinancialAssets,기타유동금융자산,Other current financial assets,재무상태표 [abstract],자산 [abstract],유동자산,기타유동금융자산,,7351853701.0,9112618305.0,6716895435.0
+ifrs-full_CurrentFinancialAssetsAtAmortisedCost,유동 상각후원가 측정 금융자산,Current financial assets at amortised cost,재무상태표 [abstract],자산 [abstract],유동자산,기타유동금융자산,유동 상각후원가 측정 금융자산,7351853701.0,9059288336.0,6716895435.0
+dart_CurrentDerivativeAsset,유동파생상품자산,Current derivative asset,재무상태표 [abstract],자산 [abstract],유동자산,기타유동금융자산,유동파생상품자산,,53329969.0,
+dart_OtherCurrentAssets,기타유동자산,Other current assets,재무상태표 [abstract],자산 [abstract],유동자산,기타유동자산,,2376382696.0,129393997.0,4125568094.0
+ifrs-full_NoncurrentAssets,비유동자산,Non-current assets,재무상태표 [abstract],자산 [abstract],비유동자산,,,118230195696.0,122319115124.0,48727171669.0
+dart_LongTermDepositsNotClassifiedAsCashEquivalents,장기금융상품,Long-term deposits not classified as cash equivalents,재무상태표 [abstract],자산 [abstract],비유동자산,장기금융상품,,1195479960.0,782000000.0,2000000.0
+dart_LongTermTradeAndOtherNonCurrentReceivablesGross,장기매출채권 및 기타비유동채권,"Long-term trade and other non-current receivables, gross",재무상태표 [abstract],자산 [abstract],비유동자산,장기매출채권 및 기타비유동채권,,,,300000000.0
+dart_LongTermTradeReceivablesGross,장기매출채권,"Long-term trade receivables, gross",재무상태표 [abstract],자산 [abstract],비유동자산,장기매출채권 및 기타비유동채권,장기매출채권,,,300000000.0
+ifrs-full_PropertyPlantAndEquipment,유형자산,"Property, plant and equipment",재무상태표 [abstract],자산 [abstract],비유동자산,유형자산,,100724231417.0,89363580482.0,21777865378.0
+ifrs-full_InvestmentProperty,투자부동산,Investment property,재무상태표 [abstract],자산 [abstract],비유동자산,투자부동산,,3569402586.0,3622262349.0,5580509256.0
+dart_GoodwillGross,영업권,"Goodwill, gross",재무상태표 [abstract],자산 [abstract],비유동자산,영업권,,,1148070927.0,5469084823.0
+ifrs-full_OtherNoncurrentFinancialAssets,기타비유동매도가능금융자산,Other non-current financial assets,재무상태표 [abstract],자산 [abstract],비유동자산,기타비유동매도가능금융자산,,12644717552.0,22968358636.0,658924347.0
+dart_NonCurrentAvailableForSaleFinancialAssets,비유동매도가능금융자산,Non-current available-for-sale financial assets,재무상태표 [abstract],자산 [abstract],비유동자산,기타비유동매도가능금융자산,비유동매도가능금융자산,,,658924347.0
+ifrs-full_NoncurrentFinancialAssetsAtAmortisedCost,비유동 상각후원가 측정 금융자산,Non-current financial assets at amortised cost,재무상태표 [abstract],자산 [abstract],비유동자산,기타비유동매도가능금융자산,비유동 상각후원가 측정 금융자산,2315926200.0,1068595858.0,
+dart_NonCurrentFairValueFinancialAsset,비유동당기손익인식금융자산,Non-current fair value financial asset,재무상태표 [abstract],자산 [abstract],비유동자산,기타비유동매도가능금융자산,비유동당기손익인식금융자산,10328791352.0,21899762778.0,
+ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,"종속기업, 조인트벤처와 관계기업에 대한 투자자산","Investments in subsidiaries, joint ventures and associates",재무상태표 [abstract],자산 [abstract],비유동자산,"종속기업, 조인트벤처와 관계기업에 대한 투자자산",,96364181.0,4434842730.0,1610037210.0
+ifrs-full_DeferredTaxAssets,이연법인세자산,Deferred tax assets,재무상태표 [abstract],자산 [abstract],비유동자산,이연법인세자산,,,,2434783535.0
+dart_OtherNonCurrentAssets,기타비유동자산,Other non-current assets,재무상태표 [abstract],자산 [abstract],비유동자산,기타비유동자산,,,,10893967120.0
+ifrs-full_Assets,자산총계,Total assets,재무상태표 [abstract],자산 [abstract],자산총계,,,152329511059.0,171434545177.0,131715726881.0
+ifrs-full_CurrentLiabilities,유동부채,Current liabilities,재무상태표 [abstract],부채 [abstract],유동부채,,,44963784200.0,54635401932.0,72412642647.0
+ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타유동채무,Trade and other current payables,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,,42035488317.0,52882935450.0,72412642647.0
+dart_ShortTermTradePayables,단기매입채무,Short-term trade Payables,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,단기매입채무,1582484932.0,4081624812.0,10758818002.0
+ifrs-full_CurrentContractLiabilities,유동계약부채,Current contract liabilities,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,유동계약부채,99305818.0,,
+dart_ShortTermOtherPayables,단기미지급금,Short-term other Payables,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,단기미지급금,2416302497.0,5304248277.0,3002139733.0
+dart_ShortTermAccruedExpenses,단기미지급비용,Short-term accrued Expenses,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,단기미지급비용,479099303.0,981583210.0,1673170647.0
+dart_ShortTermWithholdings,단기예수금,Short-term withholdings,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,단기예수금,81790060.0,201200470.0,168688302.0
+dart_ShortTermGuaranteeDepositWithholdings,단기예수보증금,Short-term guarantee deposit withholdings,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,단기예수보증금,20200000.0,85200000.0,105200000.0
+dart_ShortTermAdvancesCustomers,단기선수금,Short-term advances customers,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,단기선수금,1276446954.0,798630842.0,2008764034.0
+ifrs-full_ShorttermBorrowings,단기차입금,Short-term borrowings,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,단기차입금,4370845800.0,32552000.0,14974096960.0
+ifrs-full_CurrentPortionOfLongtermBorrowings,유동성장기차입금,Current portion of long-term borrowings,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,유동성장기차입금,5400000000.0,,28441442.0
+dart_CurrentPortionOfBonds,유동성사채,Current portion of bonds,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,유동성사채,3000000000.0,5000000000.0,15999999999.0
+dart_CurrentPortionOfConvertibleBonds,유동성전환사채,Current portion of convertible bonds,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,유동성전환사채,23208015913.0,36397895839.0,23473010219.0
+dart_CurentPortionOfFinanceLeaseLiabilities,유동성금융리스부채,Curent portion of finance lease liabilities,재무상태표 [abstract],부채 [abstract],유동부채,매입채무 및 기타유동채무,유동성금융리스부채,100997040.0,,220313309.0
+ifrs-full_OtherCurrentFinancialLiabilities,기타유동금융부채,Other current financial liabilities,재무상태표 [abstract],부채 [abstract],유동부채,기타유동금융부채,,369295883.0,1752466482.0,
+dart_CurrentDerivativeLiabilities,유동파생상품부채,Current derivative liabilities,재무상태표 [abstract],부채 [abstract],유동부채,기타유동금융부채,유동파생상품부채,369295883.0,1752466482.0,
+ifrs-full_CurrentProvisions,유동충당부채,Current provisions,재무상태표 [abstract],부채 [abstract],유동부채,유동충당부채,,2559000000.0,,
+ifrs-full_ShorttermLegalProceedingsProvision,단기법적소송충당부채,Short-term legal proceedings provision,재무상태표 [abstract],부채 [abstract],유동부채,유동충당부채,단기법적소송충당부채,2559000000.0,,
+ifrs-full_NoncurrentLiabilities,비유동부채,Non-current liabilities,재무상태표 [abstract],부채 [abstract],비유동부채,,,51516755044.0,62685669300.0,12195012925.0
+dart_LongTermTradeAndOtherNonCurrentPayables,장기매입채무 및 기타비유동채무,Long-term trade and other non-current payables,재무상태표 [abstract],부채 [abstract],비유동부채,장기매입채무 및 기타비유동채무,,48079157615.0,61763912904.0,10247801799.0
+dart_LongTermOtherPayablesGross,장기미지급금,"Long-Term other Payables, gross",재무상태표 [abstract],부채 [abstract],비유동부채,장기매입채무 및 기타비유동채무,장기미지급금,723360000.0,,
+dart_LongTermGuaranteeDepositRentGross,장기임대보증금,"Long-term guarantee deposit rent, gross",재무상태표 [abstract],부채 [abstract],비유동부채,장기매입채무 및 기타비유동채무,장기임대보증금,322520000.0,297520000.0,416350000.0
+dart_LongTermBorrowingsGross,장기차입금,"Long-term borrowings, gross",재무상태표 [abstract],부채 [abstract],비유동부채,장기매입채무 및 기타비유동채무,장기차입금,45400000000.0,53000000000.0,4536274520.0
+dart_BondsIssued,사채,Bonds issued,재무상태표 [abstract],부채 [abstract],비유동부채,장기매입채무 및 기타비유동채무,사채,,,5000000000.0
+dart_ConvertibleBonds,전환사채,Convertible bonds,재무상태표 [abstract],부채 [abstract],비유동부채,장기매입채무 및 기타비유동채무,전환사채,1442701364.0,8466392904.0,
+dart_NonCurrentFinanceLeaseLiabilities,비유동금융리스부채,Non-current finance lease liabilities,재무상태표 [abstract],부채 [abstract],비유동부채,장기매입채무 및 기타비유동채무,비유동금융리스부채,190576251.0,,295177279.0
+dart_PostemploymentBenefitObligations,퇴직급여부채,Post-employment benefit obligations,재무상태표 [abstract],부채 [abstract],비유동부채,퇴직급여부채,,1160974689.0,921756396.0,1947211126.0
+ifrs-full_DeferredTaxLiabilities,이연법인세부채,Deferred tax liabilities,재무상태표 [abstract],부채 [abstract],비유동부채,이연법인세부채,,2276622740.0,,
+ifrs-full_Liabilities,부채총계,Total liabilities,재무상태표 [abstract],부채 [abstract],부채총계,,,96480539244.0,117321071232.0,84607655572.0
+ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,Equity attributable to owners of parent,재무상태표 [abstract],자본 [abstract],지배기업의 소유주에게 귀속되는 자본,,,55848971815.0,54113473945.0,47193713006.0
+ifrs-full_IssuedCapital,자본금,Issued capital,재무상태표 [abstract],자본 [abstract],지배기업의 소유주에게 귀속되는 자본,자본금,,51592143000.0,29393658000.0,27338913000.0
+dart_CapitalSurplus,자본잉여금,Capital surplus,재무상태표 [abstract],자본 [abstract],지배기업의 소유주에게 귀속되는 자본,자본잉여금,,18978480721.0,33161355889.0,46154605781.0
+ifrs-full_SharePremium,주식발행초과금,Share premium,재무상태표 [abstract],자본 [abstract],지배기업의 소유주에게 귀속되는 자본,자본잉여금,주식발행초과금,4836038356.0,18937770224.0,42958015058.0
+dart_OtherCapitalSurplus,기타자본잉여금,Other capital surplus,재무상태표 [abstract],자본 [abstract],지배기업의 소유주에게 귀속되는 자본,자본잉여금,기타자본잉여금,14142442365.0,14223585665.0,3196590723.0
+dart_ElementsOfOtherStockholdersEquity,기타자본구성요소,Elements of other stockholder's equity,재무상태표 [abstract],자본 [abstract],지배기업의 소유주에게 귀속되는 자본,기타자본구성요소,,,,652907978.0
+dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,Other Comprehensive income/loss accumulated amount,재무상태표 [abstract],자본 [abstract],지배기업의 소유주에게 귀속되는 자본,기타포괄손익누계액,,9871681393.0,8135789616.0,1708717931.0
+ifrs-full_RetainedEarnings,이익잉여금(결손금),Retained earnings,재무상태표 [abstract],자본 [abstract],지배기업의 소유주에게 귀속되는 자본,이익잉여금(결손금),,-24593333299.0,-16577329560.0,-28661431684.0
+ifrs-full_NoncontrollingInterests,비지배지분,Non-controlling interests,재무상태표 [abstract],자본 [abstract],비지배지분,,,,,-85641697.0
+ifrs-full_Equity,자본총계,Total equity,재무상태표 [abstract],자본 [abstract],자본총계,,,55848971815.0,54113473945.0,47108071309.0
+ifrs-full_EquityAndLiabilities,자본과부채총계,Total equity and liabilities,재무상태표 [abstract],자본과부채총계,,,,152329511059.0,171434545177.0,131715726881.0
